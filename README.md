@@ -6,7 +6,7 @@
 
 Building scalable distributed systems, container runtimes, and developer tools.
 
-[![Portfolio](https://img.shields.io/badge/-trivikram.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.trivikram.dev)
+[![Portfolio](https://img.shields.io/badge/-trivikram.dev-000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://www.trivikram.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmavarapu-trivikram)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trivikram.dharmavarapu@gmail.com)
 
@@ -88,17 +88,6 @@ I'm passionate about systems that are fast, reliable, and elegant.
 - **M.S. Computer Science** — Florida State University
 - **M.S. Software Systems** (Data Analytics) — BITS Pilani
 - **B.Tech ECE** — KL University
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Trivikram-Dharmavarapu&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trivikram-Dharmavarapu&layout=compact&hide_border=true&langs_count=8" height="165" />
-
-</div>
 
 ---
 
