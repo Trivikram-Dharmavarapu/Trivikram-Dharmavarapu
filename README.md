@@ -1,97 +1,109 @@
-# Hi, I'm Tri Vikram Dharmavarapu! 👋
+<div align="center">
 
-I'm a passionate **Software Engineer** and **Graduate Teaching Assistant** with a strong foundation in **full-stack development** and experience in **parallel and distributed programming**. I enjoy building scalable and user-friendly applications using modern technologies, and I'm constantly exploring new tools and frameworks to improve my skills.
+# Hey, I'm Tri Vikram 👋
 
----
+**Software Development Engineer at Amazon**
 
-### 👨‍💻 Experience
+Building scalable distributed systems, container runtimes, and developer tools.
 
-- **Graduate Teaching Assistant** at Florida State University  
-  Assisting with Parallel and Distributed Programming courses, providing coding support, and grading assignments.
+[![Portfolio](https://img.shields.io/badge/-trivikram.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.trivikram.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmavarapu-trivikram)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trivikram.dharmavarapu@gmail.com)
 
-- **Software Engineer** at ServiceNow  
-  Developed dynamic UIs and server-side logic, collaborating with cross-functional teams to ensure stable and high-quality software.
-
-- **Software QA Engineer** at ServiceNow  
-  Automated testing processes and integrated DevOps tools to enhance workflow efficiency and software quality.
-
-- **Engineering Intern** at OpenText  
-  Worked on web application development and document classification using Angular7.
+</div>
 
 ---
 
-### 🛠 Skills & Technologies
+### 🧑‍💻 About
 
-- **Languages**:  
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![LISP](https://img.shields.io/badge/-LISP-000?style=flat-square)
+I'm an SDE at **Amazon**, where I build high-performance backend systems at scale. Previously at **ServiceNow**, I shipped production UIs and APIs used by thousands of enterprise customers. I hold a **Master's in Computer Science** from **Florida State University**, where I focused on distributed systems, parallel programming, and OS-level optimizations.
 
-- **Frameworks**:  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-  ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-- **Tools**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-- **Operating Systems**:  
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-  ![Unix](https://img.shields.io/badge/-Unix-000000?style=flat-square&logo=unix&logoColor=white)
-
-- **Databases**:  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-- **Web Development**:  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![REST API](https://img.shields.io/badge/-REST-009688?style=flat-square)
+I'm passionate about systems that are fast, reliable, and elegant.
 
 ---
 
-### 🚀 Recent Projects
+### 💼 Experience
 
-- **Word and Character Count Parallelization**  
-  A parallelized solution using MPI to count words and characters in a text file. Deployed using Docker, this project leverages multiple processes to improve performance and outputs the top 10 most frequent words and characters.
+| Role | Company | Focus |
+|---|---|---|
+| **Software Development Engineer** | Amazon | Distributed systems, scalable infrastructure |
+| **Software Engineer** | ServiceNow | Full-stack (React, Angular, Node.js), REST APIs, CI/CD |
+| **Software QA Engineer** | ServiceNow | Test automation, DevOps tooling, Jenkins pipelines |
+| **Engineering Intern** | OpenText | Angular web apps, document classification |
 
-- **React Web Applications**  
-  Developed and deployed several React-based web applications using **Firebase** for hosting and authentication.
+---
+
+### 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C%2FC++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white)
+
+**Infrastructure & Tools**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**CNTR + ExtFUSE**](https://www.trivikram.dev/projects/cntr-extfuse/) | Optimized container file systems using FUSE for near-native I/O performance | C, FUSE, Linux, Docker |
+| [**Multiplayer Game Server**](https://www.trivikram.dev/projects/multiplayer-game-server/) | TCP socket server supporting 27+ commands with concurrent game sessions | C, Socket Programming, POSIX |
+| [**MyMake**](https://www.trivikram.dev/projects/mymake/) | Custom build system — dependency graph parser with topological sort compilation | C++, Makefile, DAG |
+| [**MPI Word Count**](https://www.trivikram.dev/projects/mpi-wordcount/) | Distributed word frequency analysis across MPI processes with Docker deployment | C, MPI, Docker |
+| [**Memory Simulator**](https://www.trivikram.dev/projects/memory-simulator/) | Virtual memory system with page replacement algorithms and TLB simulation | C++, OS Concepts |
+| [**Space Raiders**](https://www.trivikram.dev/projects/space-raiders/) | Real-time arcade game with collision physics and progressive difficulty | Java, Game Dev |
+
+> 🔗 **[View all projects →](https://www.trivikram.dev/projects/)**
 
 ---
 
 ### 🎓 Education
 
-- **Master’s Degree** in Computer Science (Expected: May 2025)  
-  Florida State University, Tallahassee, FL  
-
-- **Master’s Degree** in Software Systems (Data Analytics)  
-  Birla Institute of Technology and Science, Pilani  
-
-- **Bachelor's Degree** in Electronics and Communications Engineering  
-  Koneru Lakshmaiah Education Foundation, Guntur
+- **M.S. Computer Science** — Florida State University
+- **M.S. Software Systems** (Data Analytics) — BITS Pilani
+- **B.Tech ECE** — KL University
 
 ---
 
-### 🏆 Awards & Achievements
+### 📊 GitHub Stats
 
-- Represented university in the **ACM-ICPC 2018**, the world’s oldest and most prestigious programming competition.
-- Volunteered at the **Centre for Extension Activities (CEA)**, participating in various social initiatives.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Trivikram-Dharmavarapu&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trivikram-Dharmavarapu&layout=compact&hide_border=true&langs_count=8" height="165" />
+
+</div>
 
 ---
 
-### 🌐 Find me online
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmavarapu-trivikram/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Trivikram-Dharmavarapu)
+💬 *Always open to collaborations, opportunities, and interesting conversations.*
 
-Feel free to connect with me or check out my work! I'm always open to learning new things and collaborating on exciting projects.
+</div>
